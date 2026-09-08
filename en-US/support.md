@@ -22,6 +22,8 @@ After drawing, you can swap the card with one of your own. To discard a card dra
 
 LOWGRID saves the local game on your device. Choose **Continue Game** in the main menu to resume. Avoid starting a new game if you want to keep the existing save.
 
+Training has its own save and does not replace your regular game. To continue an unfinished lesson, choose **New Game → Training**. **Continue Game** gives priority to your regular game.
+
 Games are not synchronized between devices. Deleting the app can remove local games, names and settings.
 
 ## Sound, motion and readability

@@ -22,6 +22,8 @@ Nach dem Ziehen kannst du die Karte gegen eine eigene Karte tauschen. Möchtest 
 
 LOWGRID speichert die lokale Partie auf dem Gerät. Über **Partie fortsetzen** im Hauptmenü kannst du weiterspielen. Beginne keine neue Partie, wenn du den vorhandenen Spielstand behalten möchtest.
 
+Training hat einen eigenen Spielstand und überschreibt deine normale Partie nicht. Ein unterbrochenes Training setzt du über **Neues Spiel → Training** fort. **Partie fortsetzen** öffnet bevorzugt die normale Partie.
+
 Spielstände werden nicht zwischen Geräten synchronisiert. Das Löschen der App kann lokale Spielstände, Namen und Einstellungen entfernen.
 
 ## Ton, Bewegung und Lesbarkeit
