@@ -20,7 +20,7 @@ Nach dem Ziehen kannst du die Karte gegen eine eigene Karte tauschen. Möchtest 
 
 ## Eine Partie fortsetzen
 
-LOWGRID speichert die lokale Partie auf dem Gerät. Über **Partie fortsetzen** im Hauptmenü kannst du weiterspielen. Beginne keine neue Partie, wenn du den vorhandenen Spielstand behalten möchtest.
+LOWGRID speichert die lokale Partie auf dem Gerät. Über **Partie fortsetzen** im Hauptmenü kannst du weiterspielen. Bevor ein neues Spiel oder eine Tagesrunde eine laufende Partie ersetzt, fragt LOWGRID nach. **Abbrechen** behält den Spielstand; erst **Partie ersetzen** startet neu.
 
 Training hat einen eigenen Spielstand und überschreibt deine normale Partie nicht. Ein unterbrochenes Training setzt du über **Neues Spiel → Training** fort. **Partie fortsetzen** öffnet bevorzugt die normale Partie.
 
