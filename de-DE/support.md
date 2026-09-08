@@ -4,11 +4,11 @@
 
 ## Kontakt
 
-Fragen zum Spiel, Fehlermeldungen und Verbesserungsvorschläge erreichst du über den [LOWGRID-Support auf GitHub](https://github.com/LilaQ/lowgrid-ios-issues/issues). Zum Schreiben einer Anfrage benötigst du ein GitHub-Konto. Bestehende Antworten kannst du ohne Anmeldung lesen.
+Für Fragen, Fehlermeldungen und Datenschutzanliegen schreibe an [info@emudev.de](mailto:info@emudev.de).
 
-Anfragen sind öffentlich. Beschreibe das Problem bitte in Worten und teile keine persönlichen Daten, Passwörter, Zahlungsbelege oder privaten Spielernamen. Lade keine Dateien, Bildschirmfotos oder Diagnoseprotokolle hoch.
+Beschreibe möglichst den Spielmodus, die Schritte bis zum Problem und ob es nach einem Neustart erneut auftritt. Sende keine Passwörter oder Zahlungsdaten. Eine Anfrage erfordert kein GitHub-Konto.
 
-Hilfreich sind der betroffene Spielmodus, die Schritte bis zum Problem und ob es nach einem Neustart erneut auftritt. Gib nur Informationen an, die du öffentlich teilen möchtest.
+Wie LOWGRID mit Daten umgeht, steht in der [Datenschutzerklärung](privacy-policy.md).
 
 ## Einstieg und Spielregeln
 
@@ -32,6 +32,6 @@ In den Einstellungen kannst du Musik und Effekte getrennt regeln, Haptik umschal
 
 ## Käufe
 
-Käufe werden über Apple abgewickelt. Verwende bei Kaufproblemen denselben Apple-Account wie beim ursprünglichen Kauf und starte LOWGRID mit Internetverbindung erneut. Teile keine Belege oder Zahlungsdaten im öffentlichen Support.
+Käufe werden über Apple abgewickelt. Verwende bei Kaufproblemen denselben Apple-Account wie beim ursprünglichen Kauf und starte LOWGRID mit Internetverbindung erneut. Sende dem LOWGRID-Support keine Zahlungsdaten.
 
 Informationen zu einer möglichen Rückerstattung findest du beim [Apple-Support](https://support.apple.com/de-de/118223).
